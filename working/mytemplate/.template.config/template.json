@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Fjeddo",
+    "classifications": [ "Web", "WebAPI" ],
+    "identity": "MyTemplate.WebAPI",
+    "name": "Custom ASP.NET WebAPI",
+    "shortName": "mywebapi",
+    "tags": {
+      "language": "C#",
+      "type": "project"
+    },
+    "sourceName": "MyWebApiTemplate"
+}
