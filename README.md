@@ -5,7 +5,9 @@ Please find all the metadata for the template in the `.template.config` folder, 
 > The boilerplate is based on the webapi template.
 
 # Install the template
-From directory `working` run `dotnet new --install ./`:  
+From directory `working` run `dotnet new --install ./`. 
+
+All files in the subfolder are added into the template, when creating a csproj (see 'Use the template' section below):  
 
 ```
 > dotnet new --install ./
